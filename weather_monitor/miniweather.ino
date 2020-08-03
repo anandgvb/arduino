@@ -1,4 +1,4 @@
-
+//humidity,temperature,rain detector sensors are used to monitor weather
 #include "DHT.h"
 #define DHTPIN 2
 #define DHTTYPE DHT11
